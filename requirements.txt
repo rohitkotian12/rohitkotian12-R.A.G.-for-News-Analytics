@@ -1,0 +1,27 @@
+# ── LLM & LangChain (let pip resolve compatible versions) ─────────────────────
+langchain>=0.3
+langchain-groq>=0.2
+langchain-google-genai>=2.0
+langchain-community>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+
+# ── Google Generative AI SDK ──────────────────────────────────────────────────
+google-generativeai>=0.8
+
+# ── Embeddings (HuggingFace local, no API key needed) ────────────────────────
+sentence-transformers>=3.0
+huggingface-hub>=0.25
+
+# ── Vector Store ──────────────────────────────────────────────────────────────
+faiss-cpu>=1.8
+
+# ── Article / Web Scraping ────────────────────────────────────────────────────
+newspaper4k
+lxml[html_clean]
+
+# ── Web UI ────────────────────────────────────────────────────────────────────
+streamlit>=1.35
+
+# ── Environment ───────────────────────────────────────────────────────────────
+python-dotenv>=1.0
