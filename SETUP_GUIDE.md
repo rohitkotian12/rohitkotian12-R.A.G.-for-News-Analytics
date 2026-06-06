@@ -1,3 +1,4 @@
+<img width="2872" height="1614" alt="Screenshot 2026-06-06 232213" src="https://github.com/user-attachments/assets/6355413b-82ff-4ecf-8c96-bfeaadb955f7" />
 # Bot — Setup & Run Guide (Anaconda Prompt)
 
 # Project Structure
